@@ -28,10 +28,10 @@
 
 <div align="center">
 
-**Junior Java Developer** с практически опит в изграждането на **Spring Boot** приложения.  
-Фокус върху **backend development**, **security**, **clean architecture** и **continuous learning**.
+**Junior Java Developer** with hands-on experience in building **Spring Boot** applications.  
+Strong focus on **backend development**, **security**, **clean architecture**, and **continuous learning**.
 
-> 💡 *Подхождам към разработката с дисциплина, любопитство и отговорност.*
+> 💡 *I approach development with discipline, curiosity, and responsibility.*
 
 </div>
 
@@ -43,8 +43,8 @@
 
 <div align="center">
 
-<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70" />
-<img alt="Java 17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="70" height="70" />
+<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Java 17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
 
 </div>
 
@@ -52,10 +52,10 @@
 
 <div align="center">
 
-<img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="70" height="70" />
-<img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="70" height="70" />
-<img alt="Spring Security" src="https://img.icons8.com/color/70/000000/spring-logo.png" width="70" height="70" />
-<img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="70" height="70" />
+<img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Spring Security" src="https://img.icons8.com/color/45/000000/spring-logo.png" width="45" height="45" style="margin: 8px;" />
+<img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
 
 </div>
 
@@ -63,9 +63,9 @@
 
 <div align="center">
 
-<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70" height="70" />
-<img alt="MySQL 8.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70" height="70" />
-<img alt="H2 Database" src="https://img.icons8.com/color/70/000000/database.png" width="70" height="70" />
+<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="MySQL 8.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="H2 Database" src="https://img.icons8.com/color/45/000000/database.png" width="45" height="45" style="margin: 8px;" />
 
 </div>
 
@@ -73,11 +73,11 @@
 
 <div align="center">
 
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70" height="70" />
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70" height="70" />
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70" height="70" />
-<img alt="Chart.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="70" height="70" />
-<img alt="Thymeleaf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original-wordmark.svg" width="70" height="70" />
+<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Chart.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Thymeleaf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
 
 </div>
 
@@ -85,11 +85,11 @@
 
 <div align="center">
 
-<img alt="Stripe API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="70" height="70" />
-<img alt="OAuth2 Google" src="https://img.icons8.com/color/70/000000/google-logo.png" width="70" height="70" />
-<img alt="PDF iText7" src="https://img.icons8.com/color/70/000000/adobe-acrobat-reader.png" width="70" height="70" />
-<img alt="Email" src="https://img.icons8.com/color/70/000000/gmail.png" width="70" height="70" />
-<img alt="SMS" src="https://img.icons8.com/color/70/000000/sms.png" width="70" height="70" />
+<img alt="Stripe API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="OAuth2 Google" src="https://img.icons8.com/color/45/000000/google-logo.png" width="45" height="45" style="margin: 8px;" />
+<img alt="PDF iText7" src="https://img.icons8.com/color/45/000000/adobe-acrobat-reader.png" width="45" height="45" style="margin: 8px;" />
+<img alt="Email" src="https://img.icons8.com/color/45/000000/gmail.png" width="45" height="45" style="margin: 8px;" />
+<img alt="SMS" src="https://img.icons8.com/color/45/000000/sms.png" width="45" height="45" style="margin: 8px;" />
 
 </div>
 
@@ -97,10 +97,10 @@
 
 <div align="center">
 
-<img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="70" height="70" />
-<img alt="Lombok" src="https://img.icons8.com/color/70/000000/java-coffee-cup-logo.png" width="70" height="70" />
-<img alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="70" height="70" />
-<img alt="Spring Boot Actuator" src="https://img.icons8.com/color/70/000000/spring-boot.png" width="70" height="70" />
+<img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Lombok" src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png" width="45" height="45" style="margin: 8px;" />
+<img alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Spring Boot Actuator" src="https://img.icons8.com/color/45/000000/spring-boot.png" width="45" height="45" style="margin: 8px;" />
 
 </div>
 
@@ -112,17 +112,17 @@
 
 <div align="center">
 
-**Разработен като курсова работа с production-oriented структура**
+**Developed as a course project with production-oriented structure**
 
 </div>
 
 #### ✨ Key Responsibilities
 
-- 🔧 **Backend Logic & Architecture** - Изграждане на солидна архитектура
-- 🔐 **Authentication & Authorization** - Сигурност и контрол на достъпа
-- 🗄️ **Database Modeling with JPA** - Ефективно моделиране на данни
-- 🔌 **External API Integration** - Интеграция с външни услуги
-- 📄 **PDF, Email & SMS Functionality** - Многофункционални комуникации
+- 🔧 **Backend Logic & Architecture** - Building solid architecture
+- 🔐 **Authentication & Authorization** - Security and access control
+- 🗄️ **Database Modeling with JPA** - Efficient data modeling
+- 🔌 **External API Integration** - Integration with external services
+- 📄 **PDF, Email & SMS Functionality** - Multi-functional communications
 
 ---
 
