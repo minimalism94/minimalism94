@@ -43,8 +43,9 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 <div align="center">
 
-<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Java 17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Java 17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" />
 
 </div>
 
@@ -52,10 +53,13 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 <div align="center">
 
-<img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Spring Security" src="https://img.icons8.com/color/45/000000/spring-logo.png" width="45" height="45" style="margin: 8px;" />
-<img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Spring Security" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="48" height="48" />
 
 </div>
 
@@ -63,9 +67,11 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 <div align="center">
 
-<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="MySQL 8.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="H2 Database" src="https://img.icons8.com/color/45/000000/database.png" width="45" height="45" style="margin: 8px;" />
+<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="MySQL 8.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="H2 Database" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
 
 </div>
 
@@ -73,11 +79,15 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 <div align="center">
 
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Chart.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Thymeleaf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
+<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Chart.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Thymeleaf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original-wordmark.svg" width="48" height="48" />
 
 </div>
 
@@ -85,11 +95,15 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 <div align="center">
 
-<img alt="Stripe API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="OAuth2 Google" src="https://img.icons8.com/color/45/000000/google-logo.png" width="45" height="45" style="margin: 8px;" />
-<img alt="PDF iText7" src="https://img.icons8.com/color/45/000000/adobe-acrobat-reader.png" width="45" height="45" style="margin: 8px;" />
-<img alt="Email" src="https://img.icons8.com/color/45/000000/gmail.png" width="45" height="45" style="margin: 8px;" />
-<img alt="SMS" src="https://img.icons8.com/color/45/000000/sms.png" width="45" height="45" style="margin: 8px;" />
+<img alt="Stripe API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="OAuth2 Google" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="PDF" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filetype-pdf/filetype-pdf-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="SMS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" width="48" height="48" />
 
 </div>
 
@@ -97,10 +111,13 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 <div align="center">
 
-<img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Lombok" src="https://img.icons8.com/color/45/000000/java-coffee-cup-logo.png" width="45" height="45" style="margin: 8px;" />
-<img alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="45" height="45" style="margin: 8px;" />
-<img alt="Spring Boot Actuator" src="https://img.icons8.com/color/45/000000/spring-boot.png" width="45" height="45" style="margin: 8px;" />
+<img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Lombok" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="48" height="48" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+<img alt="Spring Boot Actuator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" />
 
 </div>
 
@@ -118,11 +135,15 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 #### ✨ Key Responsibilities
 
+<div align="center">
+
 - 🔧 **Backend Logic & Architecture** - Building solid architecture
 - 🔐 **Authentication & Authorization** - Security and access control
 - 🗄️ **Database Modeling with JPA** - Efficient data modeling
 - 🔌 **External API Integration** - Integration with external services
 - 📄 **PDF, Email & SMS Functionality** - Multi-functional communications
+
+</div>
 
 ---
 
@@ -136,7 +157,11 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 </div>
 
+<div align="center">
+
 > 💡 **I value feedback and use it to grow fast.**
+
+</div>
 
 ---
 
@@ -180,8 +205,6 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 **I am open to opportunities and conversations!** 🚀
 
 ---
-
-<div align="center">
 
 ### ⚡ Fun Fact
 
