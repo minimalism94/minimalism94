@@ -1,85 +1,116 @@
-Hi, I’m Bozhidar Dimitrov 👋
-Java Developer | Junior | Problem Solver
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" /> </p>
-🚀 About Me
+Bozhidar Dimitrov
+Junior Java Developer
+Professional Summary
 
-I’m Bozhidar Dimitrov, a 31-year-old Junior Java Developer.
-I enjoy writing clean code, breaking down complex problems, and pushing through obstacles until the solution makes sense.
+Junior Java Developer with hands-on experience in building Spring Boot applications.
+Strong focus on backend development, security, clean architecture, and continuous learning.
 
-I treat every project as a chance to level up technically and mentally.
+I approach development with discipline, curiosity, and responsibility.
 
-🧠 Mindset
+Technical Skills
+Languages
 
-I focus on understanding before coding
+Java 17
 
-I value structure, clarity, and maintainability
+Frameworks and Libraries
 
-I don’t stop at “it works”, I improve it
+Spring Boot 3.4.0
 
-I enjoy debugging and fixing real issues
+Spring Security
 
-🛠 Tech Stack
-Backend
+Spring Data JPA
 
+Spring Cloud OpenFeign
 
+Hibernate
 
+Databases
 
+MySQL 8.0
 
-
-
-
-
-
-
+H2 Database for testing
 
 Frontend
 
+Thymeleaf
 
+HTML5 / CSS3
 
+JavaScript
 
+Chart.js
 
+External Integrations
 
+Stripe API for payments
 
-
-
-
-External Services
-
-Stripe API
-
-Google OAuth2
+OAuth2 Google authentication
 
 PDF generation with iText7
 
+Email notifications
+
 SMS notifications
 
-Email services
+Tools
 
-📦 Featured Project
+Maven
+
+Lombok
+
+SLF4J
+
+JUnit
+
+Spring Boot Actuator
+
+DevTools
+
+Project Experience
 Spring Boot Web Application
 
-Course project built with production-like architecture
+Developed as a course project with production-oriented structure.
 
-Includes
+Key responsibilities
+
+Backend logic and architecture
 
 Authentication and authorization
 
-Payment processing
+Database modeling with JPA
 
-PDF generation
+Integration with external APIs
 
-Email and SMS notifications
+PDF, email, and SMS functionality
 
-Secure REST communication
+How I Work
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" /> </p>
-🎯 Goals
+I analyze before implementing
 
-Grow into a Mid Java Developer
+I write readable and maintainable code
 
-Build and maintain real production systems
+I test and refactor
 
-Improve every day through consistent practice
+I ask questions and improve
 
-⭐ If you like structured thinking, clean backend code, and developers who don’t give up, you’re in the right place.
+I value feedback and use it to grow fast.
+
+Career Goals
+
+Advance to Mid-Level Java Developer
+
+Work on large-scale backend systems
+
+Contribute to stable and secure applications
+
+Contact
+
+If you’re looking for:
+
+a motivated junior developer
+
+strong backend fundamentals
+
+fast learner with discipline
+
+I am open to opportunities and conversations.
