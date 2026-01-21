@@ -39,85 +39,145 @@ Strong focus on **backend development**, **security**, **clean architecture**, a
 
 ## 🛠️ Technical Skills
 
-### 💬 Programming Languages
-
 <div align="center">
 
-<img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Java 17" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="48" height="48" />
+### 💬 Programming Languages
 
-</div>
+<img src="https://img.shields.io/badge/Java%2017-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java 17" />
+
+<br>
 
 ### 🎨 Frameworks & Libraries
 
-<div align="center">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/Spring%20Cloud%20OpenFeign-6DB33F?style=for-the-badge&logo=spring-cloud&logoColor=white" alt="Spring Cloud" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" alt="Hibernate" />
 
-<img alt="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Spring Security" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Hibernate" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="48" height="48" />
-
-</div>
+<br>
 
 ### 🗄️ Databases
 
-<div align="center">
+<img src="https://img.shields.io/badge/MySQL%208.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL 8.0" />
+<img src="https://img.shields.io/badge/H2%20Database-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="H2 Database" />
 
-<img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="MySQL 8.0" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="H2 Database" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" />
-
-</div>
+<br>
 
 ### 🎨 Frontend Technologies
 
-<div align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white" alt="Chart.js" />
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf" />
 
-<img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Chart.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Thymeleaf" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original-wordmark.svg" width="48" height="48" />
-
-</div>
+<br>
 
 ### 🔌 External Integrations
 
-<div align="center">
+<img src="https://img.shields.io/badge/Stripe%20API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe API" />
+<img src="https://img.shields.io/badge/OAuth2%20Google-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth2 Google" />
+<img src="https://img.shields.io/badge/PDF%20(iText7)-FF6B6B?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="PDF iText7" />
+<img src="https://img.shields.io/badge/Email%20Notifications-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<img src="https://img.shields.io/badge/SMS%20Notifications-00C300?style=for-the-badge&logo=sms&logoColor=white" alt="SMS" />
 
-<img alt="Stripe API" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="OAuth2 Google" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="PDF" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filetype-pdf/filetype-pdf-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Email" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="SMS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twilio/twilio-original.svg" width="48" height="48" />
-
-</div>
+<br>
 
 ### 🛠️ Tools & Utilities
 
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" alt="Maven" />
+<img src="https://img.shields.io/badge/Lombok-000000?style=for-the-badge&logo=lombok&logoColor=white" alt="Lombok" />
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit" />
+<img src="https://img.shields.io/badge/Spring%20Boot%20Actuator-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Actuator" />
+<img src="https://img.shields.io/badge/SLF4J-000000?style=for-the-badge&logo=slf4j&logoColor=white" alt="SLF4J" />
+
+</div>
+
+---
+
 <div align="center">
 
-<img alt="Maven" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Lombok" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="JUnit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="48" height="48" />
-&nbsp;&nbsp;&nbsp;&nbsp;
-<img alt="Spring Boot Actuator" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48" />
+### 📊 Tech Stack Icons
+
+<table>
+<tr>
+<td align="center" width="110">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  </a>
+  <br><sub><b>Java</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50" alt="Spring Boot" />
+  </a>
+  <br><sub><b>Spring Boot</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://www.mysql.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL" />
+  </a>
+  <br><sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" />
+  </a>
+  <br><sub><b>HTML5</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3" />
+  </a>
+  <br><sub><b>CSS3</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  </a>
+  <br><sub><b>JavaScript</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="110">
+  <a href="https://hibernate.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original-wordmark.svg" width="50" height="50" alt="Hibernate" />
+  </a>
+  <br><sub><b>Hibernate</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://maven.apache.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="50" height="50" alt="Maven" />
+  </a>
+  <br><sub><b>Maven</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://junit.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original-wordmark.svg" width="50" height="50" alt="JUnit" />
+  </a>
+  <br><sub><b>JUnit</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://www.thymeleaf.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thymeleaf/thymeleaf-original-wordmark.svg" width="50" height="50" alt="Thymeleaf" />
+  </a>
+  <br><sub><b>Thymeleaf</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://www.chartjs.org" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chartjs/chartjs-original.svg" width="50" height="50" alt="Chart.js" />
+  </a>
+  <br><sub><b>Chart.js</b></sub>
+</td>
+<td align="center" width="110">
+  <a href="https://stripe.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" width="50" height="50" alt="Stripe" />
+  </a>
+  <br><sub><b>Stripe</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
