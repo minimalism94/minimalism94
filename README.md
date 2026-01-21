@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=BOZHIDAR%20DIMITROV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Junior%20Java%20Developer&descSize=28&descAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=BOZHIDAR%20DIMITROV&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Java%20Developer&descSize=28&descAlignY=55" />
 
-### 💻 Junior Java Developer | 🚀 Backend Enthusiast | 📚 Continuous Learner
+### 💻 Java Developer | 🚀 Backend Enthusiast | 📚 Continuous Learner
 
 <div align="center">
   <h2 style="color: #FF6B35;">CODE. | LEARN. | SOLVE.</h2>
