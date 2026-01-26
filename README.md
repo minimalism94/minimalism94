@@ -17,8 +17,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+robust+backend+systems;Creating+secure+applications;Learning+every+single+day)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/minimalism94?style=social&logo=github)](https://github.com/minimalism94)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bozhidar-dimitrov)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdimitrovv/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail&logoColor=white)](mailto:b.dimitrovv@gmail.com)
 
 ---
 
